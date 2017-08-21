@@ -1,0 +1,88 @@
+body{
+
+    background-image: linear-gradient(rgba(52, 124, 10, 0.6), rgba(52, 124, 10, 0.6)),
+                  url(https://c1.staticflickr.com/5/4362/36303257471_070655e083_b.jpg);
+}
+
+
+	#mc_embed_signup {
+		background:black; clear:left; font:24px Helvetica,Arial,sans-serif;
+		opacity:.5; 
+		color:white;
+		text-align: center;
+		padding-top: 15px;
+		padding-bottom: 15px;
+		text-shadow: 0 0 3px rgba(0,0,0,0.5);
+
+
+	}
+
+	#mc-embedded-subscribe{
+		position: relative;
+		width:300px;
+		height:150px;
+		margin-bottom: 100px;
+		margin-top:100px;
+		
+		
+		
+
+	}
+
+
+	#mc-embedded-subscribe:hover{
+		background-color: white;
+		color:black;
+		width:350px;
+		height:200px;
+		font-size: 90px;
+
+	}
+
+	input[type=submit]{
+		background-color: black;
+		color:white;
+		font-size:50px;
+		padding:5px;
+
+	}
+
+
+#pflogo{
+	opacity:.6;
+	padding-top: 10px;
+	padding-bottom: 40px;
+	position: relative;
+	height:auto;
+	width:200px;
+	display: block;
+    margin: 0 auto;
+}
+
+.footer{
+				position: absolute;
+				background-color: black;
+				color:white;
+				text-align: center;
+				width:100%;
+				padding-top:10px;
+				padding-bottom:10px ;
+				font-size: 20px;
+				font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+				color:rgb(198,189,189);
+				box-shadow:0 0 20px rgba(0,0,0,0.8);
+				opacity: .6;
+			}
+
+.footer:hover{
+				background-color: white;
+				color:black;
+			}   /*Footer Style*/       //
+
+
+		
+		
+
+	
+
+
