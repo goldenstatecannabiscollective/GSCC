@@ -85,6 +85,19 @@ body{
 
 
 
+
+	}
+
+	a {
+    color: white;
+    text-decoration: none;
+}
+
+	a:hover 
+	{
+     color:darkgray; 
+     text-decoration:none; 
+     cursor:pointer;  
 	}
 
 	#mc-embedded-subscribe{
@@ -197,5 +210,3 @@ body{
 				color:black;
 			}   /*Footer Style*/       //
 
-
-		
