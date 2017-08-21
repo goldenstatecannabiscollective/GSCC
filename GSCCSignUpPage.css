@@ -1,0 +1,206 @@
+body{
+
+    background-image: linear-gradient(rgba(52, 124, 10, 0.6), rgba(52, 124, 10, 0.6)),
+                  url(https://c1.staticflickr.com/5/4362/36303257471_070655e083_b.jpg);
+}
+
+
+	.indicates-required{
+		font-size: 17px;
+	}
+
+	h2{
+		font-size:40px ;
+		
+
+	}
+
+	h2:hover{
+		
+		font-size:45px;
+		font-weight:bold;
+	}
+
+	#mc_embed_signup {
+		background:black; clear:left; font:24px Helvetica,Arial,sans-serif;
+		opacity:.5; 
+		color:white;
+		text-align: center;
+		padding-top: 15px;
+		padding-bottom: 15px;
+		text-shadow: 0 0 3px rgba(0,0,0,0.5);
+
+
+}
+	#mce-FNAME{
+		margin-bottom: 15px;
+		margin-top: 5px;
+
+
+	}
+	#mce-FNAME:hover{
+		
+	}
+
+	#mce-LNAME{
+		margin-bottom: 15px;
+	}
+	#mce-LNAME:hover{
+		
+	}
+
+	#mce-EMAIL{
+		margin-bottom: 15px;
+
+	}
+	#mce-EMAIL:hover{
+		
+	}
+
+	#mce-ADDRESS-addr1{
+		margin-bottom: 15px;
+
+	}
+
+	#mce-ADDRESS-state{
+		margin-bottom: 15px;
+	}
+
+	#mce-ADDRESS-city{
+		margin-bottom: 15px;
+		
+	}
+
+	.mc-field-group{
+		margin-bottom: 15px;
+	}
+
+	#mce-NUMBER{
+		margin-bottom: 15px;
+
+	}
+
+	#mce-TOS{
+		margin-bottom: 30px;
+
+
+
+	}
+
+	#mc-embedded-subscribe{
+		width:200px;
+		height:80px;
+		margin-bottom: 30px;
+
+	}
+
+
+	#mc-embedded-subscribe:hover{
+		background-color: white;
+		color:black;
+		width:250px;
+		height:100px;
+
+
+	}
+
+	input[type=text ]{
+		background-color: black;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		color:white;
+		font-size: 20px;
+		opacity: 1.0;
+		border-right: hidden;
+		border-left: hidden;
+		border-top: hidden;
+	}
+
+	input[type=number]{
+
+		background-color: black;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		color:white;
+		font-size: 20px;
+		opacity: 1.0;
+		border-right: hidden;
+		border-left: hidden;
+		border-top: hidden;
+		width:250px;
+
+	}
+
+	input[type=email]{
+		background-color: black;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		color:white;
+		font-size: 20px;
+		opacity: 1.0;
+		border-right: hidden;
+		border-left: hidden;
+		border-top: hidden;
+		width:280px;
+
+	}
+
+
+
+	input[type='checkbox']:before{
+		background-color: black;}
+
+
+	input[type='checkbox']:after{
+		background-color: black;
+
+
+	}
+
+	input[type=submit]{
+		background-color: black;
+		color:white;
+		font-size:50px;
+		padding:5px;
+
+	}
+
+
+#pflogo{
+	opacity:.6;
+	padding-top: 10px;
+	padding-bottom: 40px;
+	position: relative;
+	height:auto;
+	width:200px;
+	display: block;
+    margin: 0 auto;
+}
+
+.footer{
+				position: relative;
+				background-color: black;
+				color:white;
+				text-align: center;
+				width:100%;
+				padding-top:10px;
+				padding-bottom:10px ;
+				font-size: 20px;
+				font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+				color:rgb(198,189,189);
+				box-shadow:0 0 20px rgba(0,0,0,0.8);
+				opacity: .6;
+			}
+
+.footer:hover{
+				background-color: white;
+				color:black;
+			}   /*Footer Style*/       //
+
+
+		
+		
+
+	
+
+
