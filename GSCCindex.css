@@ -1,0 +1,365 @@
+html {
+	font-size:16px;
+
+}
+
+body {
+
+	background-color: white;
+}
+
+
+
+
+
+#header {
+	
+	width:100%;
+	height:150px;
+
+
+	background-color: lightgreen;
+	border-radius:1rem;
+
+}
+
+
+#footer{
+	width:100%;
+	height:130px;
+
+
+	background-color: lightgreen;
+	border-radius:1rem;
+
+
+
+}
+
+
+/* formating the drop down menu*/
+
+* {
+		margin: 0;
+		padding: 0;
+	}
+
+	#threeLines {
+			display: block;
+			background:#ddd;
+			font-size:4rem;
+			margin-left:4rem;
+			padding-top: 1.5rem;
+			background-color: lightgreen;
+
+		}
+
+	#nav.js {
+			display: none;
+		}
+		ul {
+			width:60%;
+			text-align:left;
+			z-index: 1;
+			position: absolute;
+
+		}
+		li {
+			width:100%;
+			border-right:none;
+			z-index: 1;
+
+		}
+	
+	}
+	li:last-child {
+		border-right:none;
+	}
+	li a {
+		display: block;
+		width:80%;
+		background:#ddd;
+		padding:4% 10%;
+		font-size:1.35em;
+		text-decoration: none;
+		border-radius: .75em;
+		background-color: lightblue;
+		box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+		padding-top:1rem;
+		padding-bottom:1rem;
+		color:white;
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-weight: 200;
+		text-shadow: 0px 2px 1.5px rgba(0,0,0,0.4),
+             0px 4px 6.5px rgba(0,0,0,0.1),
+             0px 9px 11.5px rgba(0,0,0,0.1);
+      text-align: center;
+
+	}
+
+
+	
+
+
+
+/* formating the drop down menu*/
+
+* {
+		margin: 0;
+		padding: 0;
+	}
+
+
+	#signUpButton {
+
+	width:100%;
+	height:6rem;
+
+	background-color:white;
+
+	text-align:center;
+	margin-bottom: 1.5rem;
+	margin-top:1.5rem;
+
+	z-index: -1;
+
+	
+
+
+}
+
+#button{
+        
+        width:30%;
+        height:100%;
+
+        background-color:lightblue;
+
+        border-radius: 2rem;
+        -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+        box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+        text-shadow: 0px 2px 1.5px rgba(0,0,0,0.4),
+             0px 4px 6.5px rgba(0,0,0,0.1),
+             0px 9px 11.5px rgba(0,0,0,0.1);
+         z-index: -1;
+         font-size: 1.75rem;
+
+
+        
+       
+    }
+
+
+    /*#button:hover{
+        background-color: white;
+        color:black;
+        width:30%;
+        height:100%;
+        font-size: 2rem;
+
+    }*/
+
+    input[type=submit]{
+        background-color: black;
+        color:white;
+        font-size:2rem;
+        padding:5px;
+	
+
+/* end of sign up button */
+
+
+
+
+
+}
+
+/* GSCC logo */
+
+#img-container{
+
+	text-align: center;
+	margin-bottom: 1rem;
+}
+
+#healthLogo{
+	width:30%;
+
+	/* end GSCC logo */
+
+
+
+
+}
+
+#menu {
+
+	width:100%;
+
+	
+	background-color: white;
+	
+
+
+		
+
+}
+
+
+#menu h3 {
+	text-align: center;
+	height:30%
+	
+
+	border: 1px solid black;
+	font-size: 2.35rem;
+
+	margin-left:15% ;
+	margin-right:15%;
+	padding-top:1rem;
+	padding-bottom: 1rem;
+
+	border-radius: 2rem;
+	background-color: lightgreen;
+	margin-bottom: 1.5rem;
+   -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+   -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+	color:white;
+
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 200;
+	text-shadow: 0px 2px 1.5px rgba(0,0,0,0.4),
+             0px 4px 6.5px rgba(0,0,0,0.1),
+             0px 9px 11.5px rgba(0,0,0,0.1);
+
+    overflow:hidden;
+
+
+}
+
+
+
+#menu p{
+	text-align: left;
+
+	
+	font-size: 1.25rem;
+
+	background-color: lightblue;
+	margin-left:15% ;
+	margin-right:15%;
+	margin-bottom: 2rem;
+
+	padding:2rem;
+
+	height:20rem;
+	border-radius: 1rem;
+	-webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+   -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+	color:gray;
+
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 200;
+	/*text-shadow: 0px .5px .35px rgba(0,0,0,0.4),
+             0px 1px 1.5px rgba(0,0,0,0.1),
+             0px 2.25px 3px rgba(0,0,0,0.1);*/
+
+    overflow:auto;
+
+    line-height: 1.9rem;
+    word-wrap: break-word;
+
+}
+
+
+
+
+/* end of drop down menu*/
+
+
+
+
+/* sign up button */
+
+
+
+
+
+
+-----------------TABLET FORMATING --------------------------------------------------------------
+	@media screen and (max-width: 768px) {
+		
+
+
+
+		#threeLines {
+			display: block;
+			background:#ddd;
+			font-size:4rem;
+			text-align: center;
+		}
+		#nav.js {
+			display: none;
+		}
+		ul {
+			width:100%;
+		}
+		li {
+			width:100%;
+			border-right:none;
+		}
+	}
+	
+
+
+
+-----------------END TABLET FORMATING ----------------------------
+
+
+-------------------------------------------------------
+-----------------MOBLE FORMATING--------------------
+-------------------------------------------------------
+
+@media only screen and (min-width:320px) and (max-width: 480px){
+
+	#mobleMenu{
+
+		
+	}
+
+ 	#mobleMenu h3 {
+ 		font-size:1rem;
+		
+
+
+
+ 	}
+
+	#mobleMenu p{
+
+
+
+	}
+
+	#button{
+		margin-left: 20px;
+	}
+}
+
+------------------------------------------------------
+---------------------------lllll-----------------------
+
+	@media screen and (min-width: 768px) {
+		#threeLines {
+			display: visible;
+			margin-left: 10%;
+			padding-top:6%;
+			font-size:4rem;
+
+
+	}
+
+
